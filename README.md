@@ -4,6 +4,7 @@
 This project is designed to scrape data from Twitter profiles using Selenium in a Python Flask backend, store the data in an SQLite database, and display the data in a React frontend.
 
 ## Features
+![image](https://github.com/user-attachments/assets/6ea16afb-83d7-4e6a-854c-16f1cffd4ccd)
 
 - Scrape user profile data from Twitter (username, profile name, bio, followers, following, location, website, profile image URL).
 - Scrape posts from Twitter (up to 20 posts from the profile).
